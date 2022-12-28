@@ -1,0 +1,5 @@
+pl\kondziet\petclinic\model\Vet.class
+pl\kondziet\petclinic\model\Person.class
+pl\kondziet\petclinic\model\Pet.class
+pl\kondziet\petclinic\model\Owner.class
+pl\kondziet\petclinic\model\PetType.class
